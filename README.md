@@ -1,4 +1,4 @@
-# Time Bound Computatin: Matrix Multiplication
+# Time Bound Computation: Matrix Multiplication
 ## Process
 My script asks for a user input for the size of the nxn matrix to be randomly generated. The script iterates through a variable amount of nxn matricies until the set size and plots out the resulting graph for both my algorithm and numpy.
 
